@@ -6,7 +6,7 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
             <div class="container px-4 px-lg-5">
-                <a class="navbar-brand" href="#page-top">Start Bootstrap</a>
+                <a class="navbar-brand" href="#page-top">Dashboard</a>
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto my-2 my-lg-0">
@@ -17,7 +17,7 @@
                     </ul>
                 </div>
             </div>
-        </nav>
+        </nav> 
         <!-- Masthead-->
         <header class="masthead">
             <div class="container px-4 px-lg-5 h-100">
@@ -216,6 +216,18 @@
                         <i class="bi-phone fs-2 mb-3 text-muted"></i>
                         <div>+1 (555) 123-4567</div>
                     </div>
+                </div>
+            </div>
+        </section>
+        <section>
+        <div class="container px-4 px-lg-5">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-lg-8 col-xl-6 text-center">
+                        <h2 class="mt-0">Visit Us</h2>
+                        <hr class="divider" />
+                    </div>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d246.33032462802868!2d125.53308234401959!3d8.945846207522685!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3301c1d93e43966f%3A0x223aefbb99cb5a10!2sSM%20City%20Butuan!5e0!3m2!1sen!2sph!4v1672032174523!5m2!1sen!2sph" width="600" height="450" style="border: 0; border-radius: 10px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>
         </section>
